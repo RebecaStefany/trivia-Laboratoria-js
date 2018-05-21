@@ -1,0 +1,21 @@
+body {
+  background-color: #CBCBDD;
+}
+
+/* #contenedorPrincipal {
+  display: none;
+} */
+
+.marcador {
+  border: 1px solid black;
+/*   display: inline-block; */
+  min-height: 100px;
+  width: 48%;
+}
+
+
+hr {
+  color: #f00;
+  background-color: #f00;
+  height: 10px;
+}
